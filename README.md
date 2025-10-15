@@ -52,7 +52,7 @@ endmodule
 
 **RTL realization**
 
-**Output:**
+**Output:**   
 
 **RTL**
 <img width="1424" height="923" alt="Screenshot 2025-09-26 114327" src="https://github.com/user-attachments/assets/a66900a1-1784-4aa8-9f19-33d3be3aa575" />
